@@ -3,7 +3,7 @@
   aula 12/06/2023
   <b> Sesc Londrina Centro </b>
   
-  musica foda: [youtube] (https://youtu.be/CQOsdEbM1qY)
+  [youtube] (https://youtu.be/CQOsdEbM1qY)
 <!--
 **crispinho011/crispinho011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
